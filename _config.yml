@@ -14,7 +14,7 @@ logo: t3d-logo.png
 words_per_minute: 180
 search: true
 url: https://carlocorsato.github.io/test   # the base hostname & protocol for your site e.g. "https://carlocorsato.github.io/simply-academia" no slash after your url
-
+baseurl: /test
 
 
 # Site owner
