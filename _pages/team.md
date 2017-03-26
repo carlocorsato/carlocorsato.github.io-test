@@ -23,7 +23,7 @@ search_omit: true
 <a name="darylgreen"></a>
 ###### Daryl Green
 <figure style="width: 150px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/img-profile/green.jpg" alt="Daryl Green">
+  <img src="{{ site.url }}/assets/images/img-profile/green.jpg" alt="Daryl Green">
 </figure>
 *Project Co-cordinator*
 <br>
@@ -35,7 +35,7 @@ search_omit: true
 
 ###### Laura Moretti
 <figure style="width: 150px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/img-profile/moretti.jpg" alt="Laura Moretti">
+  <img src="{{ site.url }}/assets/images/img-profile/moretti.jpg" alt="Laura Moretti">
 </figure>
 *Project Co-cordinator*
 <br>
@@ -48,7 +48,7 @@ search_omit: true
 <a name="carlocorsato"></a>
 ###### Carlo Corsato
 <figure style="width: 150px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/img-profile/bio-photo.jpg" alt="Carlo Corsato">
+  <img src="{{ site.url }}/assets/images/img-profile/bio-photo.jpg" alt="Carlo Corsato">
 </figure>
 *Web Design and Communication*
 <br>
@@ -60,7 +60,7 @@ search_omit: true
 <a name="samcalvin"></a>
 ###### Sam Canvin
 <figure style="width: 150px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/img-profile/bio-photo.jpg" alt="Sam Canvin">
+  <img src="{{ site.url }}/assets/images/img-profile/bio-photo.jpg" alt="Sam Canvin">
 </figure>
 *Logo Design*
 <br>
@@ -72,7 +72,7 @@ search_omit: true
 <a name="itstandrews"></a>
 ###### IT Team - University of St Andrews
 <figure style="width: 150px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/img-profile/bio-photo.jpg" alt="IT St Andrews">
+  <img src="{{ site.url }}/assets/images/img-profile/bio-photo.jpg" alt="IT St Andrews">
 </figure>
 *Hosting & Deployment*
 <br>

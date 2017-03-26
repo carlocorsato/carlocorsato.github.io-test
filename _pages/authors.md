@@ -23,7 +23,7 @@ search_omit: true
 <a name="author1"></a>
 #### Author 1
 <figure style="width: 150px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/img-profile/bio-photo.jpg" alt="author1">
+  <img src="{{ site.url }}/assets/images/img-profile/bio-photo.jpg" alt="author1">
 </figure>
 *Title*
 <br>
@@ -44,7 +44,7 @@ search_omit: true
 <a name="author2"></a>
 #### Author 2
 <figure style="width: 150px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/img-profile/bio-photo.jpg" alt="author2">
+  <img src="{{ site.url }}/assets/images/img-profile/bio-photo.jpg" alt="author2">
 </figure>
 *Title*
 <br>
@@ -57,7 +57,7 @@ search_omit: true
 <a name="author3"></a>
 #### Author 3
 <figure style="width: 150px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/img-profile/bio-photo.jpg" alt="author3">
+  <img src="{{ site.url }}/assets/images/img-profile/bio-photo.jpg" alt="author3">
 </figure>
 *Title*
 <br>
@@ -70,7 +70,7 @@ search_omit: true
 <a name="author4"></a>
 #### Author 4
 <figure style="width: 150px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/img-profile/bio-photo.jpg" alt="author4">
+  <img src="{{ site.url }}/assets/images/img-profile/bio-photo.jpg" alt="author4">
 </figure>
 *Title*
 <br>
@@ -83,7 +83,7 @@ search_omit: true
 <a name="author5"></a>
 #### Author 5
 <figure style="width: 150px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/img-profile/bio-photo.jpg" alt="author5">
+  <img src="{{ site.url }}/assets/images/img-profile/bio-photo.jpg" alt="author5">
 </figure>
 *Title*
 <br>
@@ -96,7 +96,7 @@ search_omit: true
 <a name="author6"></a>
 #### Author 6
 <figure style="width: 150px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/img-profile/bio-photo.jpg" alt="author6">
+  <img src="{{ site.url }}/assets/images/img-profile/bio-photo.jpg" alt="author6">
 </figure>
 *Title*
 <br>
@@ -109,7 +109,7 @@ search_omit: true
 <a name="author7"></a>
 #### Author 7
 <figure style="width: 150px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/img-profile/bio-photo.jpg" alt="author7">
+  <img src="{{ site.url }}/assets/images/img-profile/bio-photo.jpg" alt="author7">
 </figure>
 *Title*
 <br>

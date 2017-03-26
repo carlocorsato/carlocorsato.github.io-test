@@ -22,7 +22,7 @@ search_omit: true
 
 <a name="st_andrews"></a>
 ###### University of St Andrews
-![University of St Andrews](/assets/images/logos/logo_st_andrews.png){: style="width: 150px; border-radius: 5px" .align-right}
+![University of St Andrews]({{ site.url }}/assets/images/logos/logo_st_andrews.png){: style="width: 150px; border-radius: 5px" .align-right}
 (50 words description) Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate
 
 <a href="#supporterstoc"><i class="fa fa-chevron-up fa-lg fa-pull-right"></i></a> <a href="#top"><i class="fa fa-angle-double-up fa-1x fa-pull-left"></i></a>
@@ -30,7 +30,7 @@ search_omit: true
 
 <a name="magdalen"></a>
 ###### Magdalen College, Oxford
-![Magdalen College](/assets/images/logos/logo-magdalen.png){: style="width: 150px; border-radius: 5px" .align-right}
+![Magdalen College]({{ site.url }}/assets/images/logos/logo-magdalen.png){: style="width: 150px; border-radius: 5px" .align-right}
 (50 words description) Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate
 
 <a href="#supporterstoc"><i class="fa fa-chevron-up fa-lg fa-pull-right"></i></a> <a href="#top"><i class="fa fa-angle-double-up fa-1x fa-pull-left"></i></a>
@@ -38,7 +38,7 @@ search_omit: true
 
 <a name="bodleian"></a>
 ###### Bodleian Library, Oxford
-![Bodleian Library](/assets/images/logos/logo-bodleian.png){: style="width: 150px; border-radius: 5px" .align-right}
+![Bodleian Library]({{ site.url }}/assets/images/logos/logo-bodleian.png){: style="width: 150px; border-radius: 5px" .align-right}
 (50 words description) Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate
 
 <a href="#supporterstoc"><i class="fa fa-chevron-up fa-lg fa-pull-right"></i></a> <a href="#top"><i class="fa fa-angle-double-up fa-1x fa-pull-left"></i></a>

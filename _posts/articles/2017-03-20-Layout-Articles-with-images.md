@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 **Single Image**
 
 <figure>
- <img src="/assets/images/barbaro.jpg" alt="barbaro">
+ <img src="{{ site.url }}/assets/images/barbaro.jpg" alt="barbaro">
  <figcaption><b>Paolo Veronese</b>, <i>Portrait of Daniele Barbaro</i>, oil on canvas, Rijksmuseum, Amsterdam</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 **Linking image**
 
 {% capture fig_img %}
-[![Foo](/assets/images/barbaro.jpg)](http://www.nationalgallery.org.uk/whats-on/exhibitions/the-credit-suisse-exhibition-michelangelo-sebastiano)
+[![Foo]({{ site.url }}/assets/images/barbaro.jpg)](http://www.nationalgallery.org.uk/whats-on/exhibitions/the-credit-suisse-exhibition-michelangelo-sebastiano)
 {% endcapture %}
 
 <figure>
@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 **Linking image + caption with a link**
 {% capture fig_img %}
-[![Foo](/assets/images/barbaro.jpg)](http://www.nationalgallery.org.uk/whats-on/exhibitions/the-credit-suisse-exhibition-michelangelo-sebastiano)
+[![Foo]({{ site.url }}/assets/images/barbaro.jpg)](http://www.nationalgallery.org.uk/whats-on/exhibitions/the-credit-suisse-exhibition-michelangelo-sebastiano)
 {% endcapture %}
 
 {% capture fig_caption %}
@@ -66,7 +66,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 **Contrasting three images**
 <figure class="third">
-	<img src="/assets/images/barbaro.jpg" alt="barbaro">
+	<img src="{{ site.url }}/assets/images/barbaro.jpg" alt="barbaro">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/DURER1.png" alt="duerer">
   <img src="http://www.rgs.mef.gov.it/export/sites/sitoRGS/rgsimages/lucapacioli.jpg" alt="pacioli">
 	<figcaption>Caption describing these three images.</figcaption>
@@ -83,12 +83,12 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/DURER1.png" alt="duerer">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/DURER1.png" alt="duerer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/DURER1.png" alt="duerer">
-  <img src="/assets/images/barbaro.jpg" alt="barbaro">
-  <img src="/assets/images/barbaro.jpg" alt="barbaro">
-  <img src="/assets/images/barbaro.jpg" alt="barbaro">
-  <img src="/assets/images/barbaro.jpg" alt="barbaro">
-  <img src="/assets/images/barbaro.jpg" alt="barbaro">
-  <img src="/assets/images/barbaro.jpg" alt="barbaro">
+  <img src="{{ site.url }}/assets/images/barbaro.jpg" alt="barbaro">
+  <img src="{{ site.url }}/assets/images/barbaro.jpg" alt="barbaro">
+  <img src="{{ site.url }}/assets/images/barbaro.jpg" alt="barbaro">
+  <img src="{{ site.url }}/assets/images/barbaro.jpg" alt="barbaro">
+  <img src="{{ site.url }}/assets/images/barbaro.jpg" alt="barbaro">
+  <img src="{{ site.url }}/assets/images/barbaro.jpg" alt="barbaro">
 	<figcaption>Caption describing a Gallery of 12 images.</figcaption>
 </figure>
 
@@ -97,9 +97,9 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 **Linking Gallery**
 
 {% capture fig_img %}
-[![Foo](/assets/images/barbaro.jpg)](http://www.nationalgallery.org.uk/whats-on/exhibitions/the-credit-suisse-exhibition-michelangelo-sebastiano)
-[![Foo](/assets/images/barbaro.jpg)](http://www.nationalgallery.org.uk/whats-on/exhibitions/the-credit-suisse-exhibition-michelangelo-sebastiano)
-[![Foo](/assets/images/barbaro.jpg)](http://www.nationalgallery.org.uk/whats-on/exhibitions/the-credit-suisse-exhibition-michelangelo-sebastiano)
+[![Foo]({{ site.url }}/assets/images/barbaro.jpg)](http://www.nationalgallery.org.uk/whats-on/exhibitions/the-credit-suisse-exhibition-michelangelo-sebastiano)
+[![Foo]({{ site.url }}/assets/images/barbaro.jpg)](http://www.nationalgallery.org.uk/whats-on/exhibitions/the-credit-suisse-exhibition-michelangelo-sebastiano)
+[![Foo]({{ site.url }}/assets/images/barbaro.jpg)](http://www.nationalgallery.org.uk/whats-on/exhibitions/the-credit-suisse-exhibition-michelangelo-sebastiano)
 [![Foo](https://upload.wikimedia.org/wikipedia/commons/d/da/DURER1.png)](http://www.nationalgallery.org.uk/whats-on/exhibitions/the-credit-suisse-exhibition-michelangelo-sebastiano)
 [![Foo](https://upload.wikimedia.org/wikipedia/commons/d/da/DURER1.png)](http://www.nationalgallery.org.uk/whats-on/exhibitions/the-credit-suisse-exhibition-michelangelo-sebastiano)
 [![Foo](https://upload.wikimedia.org/wikipedia/commons/d/da/DURER1.png)](http://www.nationalgallery.org.uk/whats-on/exhibitions/the-credit-suisse-exhibition-michelangelo-sebastiano)
@@ -118,7 +118,7 @@ This is a Linking Gallery and you can direct the linking images to any url
 
 **Image alighting left + text alighting right**
 <figure style="width: 150px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-150x150.jpg" alt="">
+  <img src="{{ site.url }}/assets/images/image-alignment-150x150.jpg" alt="">
   <figcaption>Fig. 1.</figcaption>
 </figure>
 
@@ -129,7 +129,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 **Image alighting right + text alighting left**
 <figure style="width: 300px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-300x200.jpg" alt="">
+  <img src="{{ site.url }}/assets/images/image-alignment-300x200.jpg" alt="">
   <figcaption>Fig. 2. Very Long Caption: Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis Donec mollis hendrerit risus.</figcaption>
 </figure>
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.
