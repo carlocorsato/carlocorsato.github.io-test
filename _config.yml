@@ -13,7 +13,7 @@ description: 3 --- key --- words
 logo: t3d-logo.png
 words_per_minute: 180
 search: true
-url: http://localhost:4000   # the base hostname & protocol for your site e.g. "https://carlocorsato.github.io/simply-academia" no slash after your url
+url: https://carlocorsato.github.io/test   # the base hostname & protocol for your site e.g. "https://carlocorsato.github.io/simply-academia" no slash after your url
 baseurl: ""
 
 
