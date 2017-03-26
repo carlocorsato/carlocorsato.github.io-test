@@ -13,9 +13,9 @@ description: 3 --- key --- words
 logo: t3d-logo.png
 words_per_minute: 180
 search: true
-url: http://localhost:4000   # the base hostname & protocol for your site e.g. "https://carlocorsato.github.io" no slash after your url
-baseurl: # the subpath of your site, e.g. "/simply-academia" -- for User site on Github baseurlmust be empty (learn more: http://downtothewire.io/2015/08/15/configuring-jekyll-for-user-and-project-github-pages/)
-repository: # GitHub username/repo-name e.g. "carlocorsato/simply-academia"
+url: https://carlocorsato.github.io   # the base hostname & protocol for your site e.g. "https://carlocorsato.github.io" no slash after your url
+baseurl: /test# the subpath of your site, e.g. "/simply-academia" -- for User site on Github baseurlmust be empty (learn more: http://downtothewire.io/2015/08/15/configuring-jekyll-for-user-and-project-github-pages/)
+repository: carlocorsato/test# GitHub username/repo-name e.g. "carlocorsato/simply-academia"
 
 
 
