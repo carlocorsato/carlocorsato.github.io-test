@@ -22,7 +22,7 @@ search_omit: true
 
 <a name="darylgreen"></a>
 ###### Daryl Green
-<figure style="width: 150px" class="align-right">
+<figure style="width: 150px">
   <img src="{{ site.url }}/assets/images/img-profile/green.jpg" alt="Daryl Green">
 </figure>
 *Project Co-cordinator*
