@@ -11,6 +11,8 @@ $doc-font-size            : 16;
 $doc-line-height          : 24;
 
 $border-radius            : 3px;
+$border-radius-box        : 5px;
+$box-shadow               : 5px 5px 15px;
 
 
 // set-up the body font-size / line-height
@@ -34,6 +36,8 @@ $grey                     : #333;
 $light-gray               : lighten($text-color, 30);
 $accent-color             : $black;
 $link-color               : $black;
+$info-color               : #52adc8;
+$warning-color            : #e84a45;
 
 $table-border-color       : $border-color;
 $table-border             : 1px solid $table-border-color;
