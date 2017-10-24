@@ -9,12 +9,13 @@
 # Site wide configuration
 title: Thinking 3D
 locale: en_UK
-description:
+description: 3 --- key --- words
 logo: t3d-logo.png
 words_per_minute: 180
 search: true
-url: http://localhost:4000   # the base hostname & protocol for your site e.g. "https://carlocorsato.github.io/simply-academia" no slash after your url
-baseurl: # if hosting on Github Project Pages include here the name of your repository e.g. "/simply-academia"
+url: https://carlocorsato.github.io/test   # the base hostname & protocol for your site e.g. "https://carlocorsato.github.io/simply-academia" no slash after your url
+baseurl: /test # if hosting on Github Project Pages include here the name of your repository e.g. "/simply-academia"
+
 
 
 # Site owner
@@ -27,7 +28,7 @@ owner:
   codepen:
   dribbble:
   flickr:
-  facebook: T3D2019
+  facebook: https://www.facebook.com/T3D2019/
   foursquare:
   github: #username
   google:
@@ -54,7 +55,7 @@ owner:
 twitter:
   username: T3D2019
 facebook:
-  username: T3D2019
+  username:
   app_id:
   publisher:
 og_image: # Open Graph/Twitter default site image
@@ -120,7 +121,7 @@ sass:
   sass_dir: _sass
   style: compressed
 # Plugins
-Plugins:
+gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
