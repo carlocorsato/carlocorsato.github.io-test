@@ -1,0 +1,33 @@
+/* ==========================================================================
+   Site footer (changed: font-family; font-size)
+   ========================================================================== */
+
+.footer-wrapper {
+  @include clearfix;
+  margin: 2em auto;
+  text-align: center;
+  font-family: $base-font;
+  @include font-size(12);
+  font-style: italic;
+  color: lighten($text-color,20);
+
+  a {
+    color: lighten($text-color,20);
+  }
+}
+
+/*
+   Social media icons
+   ========================================================================== */
+
+.social-icons {
+  margin: 1em 0 2em;
+
+  a {
+    padding: 4px 8px;
+
+    &:hover {
+      color: $black;
+    }
+  }
+}
