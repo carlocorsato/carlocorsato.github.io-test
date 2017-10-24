@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Team
+  url: /team/
+
+- title: Supporting Institutions
+  url: /supporters/
+
+- title: Search
+  url: /search/
