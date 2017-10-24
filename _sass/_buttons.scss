@@ -1,0 +1,91 @@
+/* ==========================================================================
+   Buttons
+   ========================================================================== */
+
+/*
+   Next/Previous Bottons
+   ========================================================================== */
+
+.btn {
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 8px 20px;
+  @include font-size(14);
+  background-color: $black;
+  color: $white;
+  border: 1px solid $black !important;
+  border-radius: $border-radius;
+
+  &:visited {
+    color: $white;
+  }
+
+  &:hover {
+    background-color: $white;
+    color: $black;
+  }
+}
+
+/*
+   Close button
+   ========================================================================== */
+
+.close-btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 1;
+  background-color: transparent;
+  border: 0 solid transparent;
+  color: $white;
+}
+
+
+/*
+   T3D-style Bottons
+   ========================================================================== */
+
+.btn2 {
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 8px 20px;
+  text-align: center;
+  @include font-size(14);
+  background-color: $white;
+  color: $black;
+  border: 1px solid $gray !important;
+  border-radius: $border-radius;
+
+  &:visited {
+    color: $black;
+  }
+
+  &:hover {
+    background-color: $black;
+    color: $white;
+  }
+}
+
+/*
+   T3D-style Close button
+   ========================================================================== */
+
+.close-btn2 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 1;
+  background-color: transparent;
+  border: 0 solid transparent;
+  color: $black;
+}
+
+.btn-container {
+  display: flex;                  /* establish flex container */
+  flex-wrap: nowrap;              /* default value; can be omitted */
+  justify-content: space-around; /* switched from default (flex-start, see below) */
+}
+
+.btn-container > div {
+  background-color: $white;
+}
