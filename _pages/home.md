@@ -3,13 +3,19 @@ layout: home
 permalink: /
 logo_omit: true
 excerpt: "homepage"
+
 search_omit: true
 ---
+
 - an interdisciplinary exploration of the concept of three-dimensionality and its impact on the arts and sciences;
 - an innovative project which puts the minds of the 21st century in touch with those of early practitioners exploring three-dimensionality;
 - a year-long series of exhibitions, events, public talks, gallery shows, and academic symposia intended to incite dialogue between artists, art and book historians, mathematicians, astronomers, geometers, earth scientists, botanists, chemists, etc.
 
----
+<figure>
+    <img src="{{ site.url }}/assets/images/pacioli-det.jpg" alt="pacioli_det">
+    <figcaption><b>Andrea de' Barbari</b>, <a href="https://commons.wikimedia.org/wiki/File:Pacioli.jpg"><i>Luca Pacioli with a Student</i></a>, Naples, Museo di Capodimonte. Detail</figcaption>
+</figure>
+
 
 <a name="hometoc"></a>
 {% include toc title="Menu" %}

@@ -1,9 +1,9 @@
 ---
 layout: post
 permalink: /about/
-title: About Thinking 3D
+title: About
 excerpt: "T3D Project Description"
-date: 2017-10-15 12:00
+date: 2017-10-25 12:00
 author: t3d
 share: true
 ---
@@ -21,6 +21,9 @@ The plan is that of a pan-Oxford season of events: the heart of the project will
 This initiative will be launched in 2019, the 500th anniversary of Leonardo da Vinci’s death, with the primary aim of celebrating one of the most ingenious minds in history. It will also consider the impact that his work has had across time and still has in our contemporary world.
 
 Understanding how Leonardo perceived and transmitted the three-dimensional world is the seed from which *Thinking 3D* has grown. Leonardo’s work will be the opening protagonist of the exhibition at the Weston Library, considering his ways of observing, analysing and communicating on paper the reality around him. The pan-Oxford project will then look at the influence the rise and development of three-dimensionality on artists, mathematicians, draughtsmen, and designers over the last 500 years. Categories such as geometry, mathematics, architecture, astronomy, and natural and physical sciences will constitute the themes of the satellite exhibitions and public events.
+
+<br>
+&copy; 2017 [Thinking3D](/credits/#t3dauthor)
 
 <br>
 <div class="btn-container">
