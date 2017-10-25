@@ -3,17 +3,20 @@ layout: home2
 permalink: /home2/
 logo_omit: true
 excerpt: "homepage2"
-image:
-  feature: test copy.jpg
-  credit: Whatever
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+
 search_omit: true
 ---
+
+<figure>
+ <img src="{{ site.url }}/assets/images/test.jpg" alt="barbaro">
+</figure>
+
 - an interdisciplinary exploration of the concept of three-dimensionality and its impact on the arts and sciences;
 - an innovative project which puts the minds of the 21st century in touch with those of early practitioners exploring three-dimensionality;
 - a year-long series of exhibitions, events, public talks, gallery shows, and academic symposia intended to incite dialogue between artists, art and book historians, mathematicians, astronomers, geometers, earth scientists, botanists, chemists, etc.
 
 ---
+
 
 <a name="hometoc"></a>
 {% include toc title="Menu" %}
