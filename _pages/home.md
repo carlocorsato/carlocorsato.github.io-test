@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 logo_omit: true
-excerpt: "homepage"
+excerpt: "T3D an interdisciplinary exploration of the concept of three-dimensionality and its impact on the arts and sciences"
 
 search_omit: true
 ---
@@ -13,7 +13,7 @@ search_omit: true
 
 <figure>
     <img src="{{ site.url }}/assets/images/pacioli-det.jpg" alt="pacioli_det">
-    <figcaption><b>Andrea de' Barbari</b>, <a href="https://commons.wikimedia.org/wiki/File:Pacioli.jpg"><i>Luca Pacioli with a Student</i></a>, Naples, Museo di Capodimonte. Detail</figcaption>
+    <figcaption><b>Andrea de' Barbari</b>, <a href="https://commons.wikimedia.org/wiki/File:Pacioli.jpg"> Detail of <i>Luca Pacioli with a Student</i></a>, Naples, Museo di Capodimonte <i class="fa fa-creative-commons" aria-hidden="true"></i></figcaption>
 </figure>
 
 

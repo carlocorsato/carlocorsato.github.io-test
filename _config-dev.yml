@@ -120,7 +120,7 @@ sass:
   sass_dir: _sass
   style: compressed
 # Plugins
-gems:
+Plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed

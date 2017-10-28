@@ -2,7 +2,7 @@
 layout: post
 permalink: /about/
 title: About
-excerpt: "T3D Project Description"
+excerpt: "T3D an interdisciplinary exploration of the concept of three-dimensionality and its impact on the arts and sciences"
 date: 2017-10-25 12:00
 author: t3d
 share: true

@@ -16,15 +16,17 @@ modified:
 ### Copyright {#copyright}
 
 ##### Logos
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+All *Thinking 3D* logos, having been created by [Sam Canvin](/credits/#samcanvin), are copyright of the principal investigators, [**Mr Daryl Green**](/team/#darylgreen) and [**Dr Laura Moretti**](/team/#lauramoretti), and are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
 
 ##### Images
-Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+Unless stated otherwise, images used or incorporated into the *Thinking 3D* website are copyright of the principal investigators, [**Mr Daryl Green**](/team/#darylgreen) and [**Dr Laura Moretti**](/team/#lauramoretti), and are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
+<br><br>
+All other images where *Thinking 3D* is not the copyright holder are clearly labelled throughout this site.
 
 ##### Contents
-Unless stated otherwise, contents of any kinds (including texts) published in this website by the author [Thinking3D](/credits/#t3dauthor) are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+Unless stated otherwise, contents of any kinds (including texts) published in this website by the author [**Thinking3D**](/credits/#t3dauthor) are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
 
-Unless stated otherwise, contents of any kinds (including texts) published in this website by any [Contributors](/contributors/) to the project are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
+Unless stated otherwise, contents of any kinds (including texts) published in this website by any [**Contributors**](/contributors/) to the project are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 
 <br>
 
@@ -33,7 +35,7 @@ Unless stated otherwise, contents of any kinds (including texts) published in th
 ### License {#license}
 
 ##### Website Theme
-![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg) &copy; 2017 [Carlo Corsato](/team/#carlocorsato)
+![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg) &copy; 2017 [**Carlo Corsato**](/team/#carlocorsato)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

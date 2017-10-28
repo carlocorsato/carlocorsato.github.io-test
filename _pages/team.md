@@ -66,3 +66,5 @@ Laura has held prestigious post-doctoral positions (Department of History of Art
 Carlo designed and created our website, whose theme and functions are based on [Simply Academia](https://carlocorsato.github.io/simply-academia-test/), a digital platform that he started developing when he was a post-doc fellow at the Dutch Institute, Florence (2015) and a visiting scholar at the St John's College, Cambridge (2016).
 
 <a href="https://twitter.com/CarloCorsato"> <i class="fa fa-twitter" aria-hidden="true"></i></a>@CarloCorsato
+<br>
+<a href="https://github.com/carlocorsato"> <i class="fa fa-github" aria-hidden="true"></i></a>carlocorsato
