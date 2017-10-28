@@ -108,6 +108,17 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Compress Html
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  ignore:
+    env: [local]
+  blanklines: false
+  profile: false
+  startings: [all]
+
 
 
 # Jekyll configuration
