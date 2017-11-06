@@ -3,7 +3,7 @@ t3d:
   name: Thinking 3D
   email: mail.thinking3d@gmail.com
   bio:
-  avatar: t3d-author.png
+  avatar: author_t3d.png
   twitter: T3D2019
   facebook: T3D2019
   google:
@@ -14,7 +14,7 @@ laura_moretti:
   web: https://www.st-andrews.ac.uk/arthistory/about/people/?mode=profile&group=staff&user_id=lm93
   email: lm93@st-andrews.ac.uk
   bio: Senior Lecturer (University of St Andrews) and Project Co-cordinator
-  avatar: moretti.jpg
+  avatar: author_moretti.jpg
   twitter: lauramoretti10
   facebook:
   google:
@@ -24,7 +24,7 @@ daryl_green:
   name: Daryl Green
   email: daryl.green@magd.ox.ac.uk
   bio: Librarian (Magdalen College, Oxford) and Project Co-cordinator
-  avatar: green.jpg
+  avatar: author_green.jpg
   twitter:
   google:
     plus:
@@ -32,8 +32,8 @@ daryl_green:
 carlo_corsato:
   name: Carlo Corsato
   email: carlo.corsato@gmail.com
-  bio: Symply Academia Designer
-  avatar: corsato.jpg
+  bio: Research Assistant
+  avatar: author_corsato.jpg
   twitter:
   google:
     plus:

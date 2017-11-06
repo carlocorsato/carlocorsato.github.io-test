@@ -10,11 +10,11 @@
 title: Thinking 3D
 locale: en_UK
 description:
-logo: t3d-logo.png
+logo: logo_t3d_cube.png
 words_per_minute: 180
 search: true
-url: https://carlocorsato.github.io/test   # the base hostname & protocol for your site e.g. "https://carlocorsato.github.io/simply-academia" no slash after your url
-baseurl: /test   # if hosting on Github Project Pages include here the name of your repository e.g. "/simply-academia"
+url: https://www.thinking3d.ac.uk   # the base hostname & protocol for your site e.g. "https://carlocorsato.github.io/simply-academia" no slash after your url
+baseurl: # if hosting on Github Project Pages include here the name of your repository e.g. "/simply-academia"
 
 
 # Site owner
@@ -29,10 +29,10 @@ owner:
   flickr:
   facebook: T3D2019
   foursquare:
-  github: #username
+  github: StAResComp
   google:
     plus: #username
-    analytics: UA—XXXXXXXX-X #replace with your Tracking ID
+    analytics: UA-108808131-1 #replace with your Tracking ID
     ad-client:
     ad-slot:
   keybase:
@@ -107,17 +107,6 @@ kramdown:
   entity_output: as_char
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
-# Compress Html
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  ignore:
-    env: [local]
-  blanklines: false
-  profile: false
-  startings: [all]
 
 
 

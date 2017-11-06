@@ -2,7 +2,7 @@
 layout: post
 permalink: /terms/
 title: Terms & Conditions
-excerpt: Terms & Conditions, Credits, License
+excerpt: "Thinking3D: Terms & Conditions, License"
 author: t3d
 share: false
 date: 2017-10-25 12:00
@@ -21,7 +21,8 @@ All *Thinking 3D* logos, having been created by [Sam Canvin](/credits/#samcanvin
 ##### Images
 Unless stated otherwise, images used or incorporated into the *Thinking 3D* website are copyright of the principal investigators, [**Mr Daryl Green**](/team/#darylgreen) and [**Dr Laura Moretti**](/team/#lauramoretti), and are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
 <br><br>
-All other images where *Thinking 3D* is not the copyright holder are clearly labelled throughout this site.
+All images used on the *Thinking 3D* website which were available online in **public domain** and/or were released under any [**Creative Commons**](https://creativecommons.org/share-your-work/licensing-types-examples/) licenses are clearly labelled; further information about urls, attributions and licenses of these images can be found by clicking on the links through to their descriptions.
+
 
 ##### Contents
 Unless stated otherwise, contents of any kinds (including texts) published in this website by the author [**Thinking3D**](/credits/#t3dauthor) are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>

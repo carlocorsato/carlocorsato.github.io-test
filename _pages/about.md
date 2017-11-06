@@ -3,19 +3,19 @@ layout: post
 permalink: /about/
 title: About
 excerpt: "T3D an interdisciplinary exploration of the concept of three-dimensionality and its impact on the arts and sciences"
-date: 2017-10-25 12:00
+date: 2017-04-10 12:00
+modified: 2017-10-25 12:00
 author: t3d
 share: true
 ---
 
 
-<a name="topabout"></a>
-### Concept {#about}
+### Concept {#concept}
 This project is centred on the development of the techniques used to communicate three-dimensional forms in two-dimensional media. The representation of truthful three-dimensional forms during the Renaissance became a skill to practice, and its successful completion was considered a virtuoso display of talent. As reliable two-dimensional illustrations of three-dimensional subjects became more prevalent it also impacted the way that disciplines developed: architecture could be communicated much more clearly, mathematical concepts and astronomical observations could be quickly relayed, observations of the natural world moved towards a more realistic method of depiction.
 
 *Thinking 3D* will put the 21st century mind in touch with the legacy of some of the greatest artists and thinkers (Leonardo da Vinci, Albrecht Dürer, Andreas Vesalius, Johannes Hevelius, John Aubrey, William Hunter, etc.) through the medium of books, manuscripts, prints and drawings, offering a cluster of exhibitions and events, which will tell the story of the communication of three-dimensionality and the impact that the developments of related techniques had on artists and draughtsman throughout time and across space. This theme is of great relevance today, as amateur and professional designers are constantly thinking about how to communicate three-dimensional forms in traditional media or by using computer software and 3D printing.
 
-The plan is that of a pan-Oxford season of events: the heart of the project will be constituted by a main exhibition at the Treasury of the Bodleian Libraries (in the Weston Library), which will be surrounded by a group of satellite exhibitions and supported by a series of conferences, talks and workshops. Exhibitions across the University and city will display books, manuscripts, prints and drawings from various local collections, loans from other institutions, reproductions of works of art which will enhance the understanding of the concept, and original pieces commissioned to contemporary designers and artists who will take direct inspiration from the items on show.
+The plan is that of a pan-Oxford season of events: the heart of the project will be constituted by a main exhibition at the [Treasury of the Bodleian Libraries](https://treasures.bodleian.ox.ac.uk/) (in the [Weston Library](https://www.bodleian.ox.ac.uk/weston)), which will be surrounded by a group of satellite exhibitions and supported by a series of conferences, talks and workshops. Exhibitions across the University and city will display books, manuscripts, prints and drawings from various local collections, loans from other institutions, reproductions of works of art which will enhance the understanding of the concept, and original pieces commissioned to contemporary designers and artists who will take direct inspiration from the items on show.
 
 ### Why 2019?
 This initiative will be launched in 2019, the 500th anniversary of Leonardo da Vinci’s death, with the primary aim of celebrating one of the most ingenious minds in history. It will also consider the impact that his work has had across time and still has in our contemporary world.

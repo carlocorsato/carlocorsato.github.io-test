@@ -2,11 +2,11 @@
 layout: post
 permalink: /credits/
 title: Credits
-excerpt: Credits
+excerpt: "Thinking3D: Terms & Conditions, License"
 author: t3d
 share: true
-date: 2017-10-25 12:00
-modified:
+date: 2017-04-10 12:00
+modified: 2017-11-02 12:00
 ---
 
 
@@ -36,4 +36,5 @@ The *Thinking3D* website is a customised version of [Simply Academia](https://gi
 
 ### Funding
 
-###### School of Art history, University of St Andrews
+###### University of St Andrews
+[The University of St Andrews](http://st-andrews.ac.uk) supported and funded the creation of this website.

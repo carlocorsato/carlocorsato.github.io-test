@@ -2,8 +2,7 @@
 layout: home
 permalink: /
 logo_omit: true
-excerpt: "T3D an interdisciplinary exploration of the concept of three-dimensionality and its impact on the arts and sciences"
-
+excerpt: "Thinking 3D an interdisciplinary exploration of the concept of three-dimensionality and its impact on the arts and sciences"
 search_omit: true
 ---
 
@@ -11,9 +10,13 @@ search_omit: true
 - an innovative project which puts the minds of the 21st century in touch with those of early practitioners exploring three-dimensionality;
 - a year-long series of exhibitions, events, public talks, gallery shows, and academic symposia intended to incite dialogue between artists, art and book historians, mathematicians, astronomers, geometers, earth scientists, botanists, chemists, etc.
 
+{% capture fig_img %}
+[![Foo]({{ site.url }}/assets/images/pacioli-det.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2a/Pacioli.jpg)
+{% endcapture %}
+
 <figure>
-    <img src="{{ site.url }}/assets/images/pacioli-det.jpg" alt="pacioli_det">
-    <figcaption><b>Andrea de' Barbari</b>, <a href="https://commons.wikimedia.org/wiki/File:Pacioli.jpg"> Detail of <i>Luca Pacioli with a Student</i></a>, Naples, Museo di Capodimonte <i class="fa fa-creative-commons" aria-hidden="true"></i></figcaption>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption><b>Andrea de' Barbari</b>, <a href="https://commons.wikimedia.org/wiki/File:Pacioli.jpg">Detail of <i>Luca Pacioli with a Student</i></a>, Naples, Museo di Capodimonte <i class="fa fa-creative-commons" aria-hidden="true"></i></figcaption>
 </figure>
 
 
@@ -33,7 +36,7 @@ At the heart of *Thinking 3D* is a collaborative research initiative to bring to
 ---
 
 ### Exhibitions
-The central exhibition for *Thinking 3D* will open in 2019 at the Treasury of the Bodleian Libraries, Weston Library. At the same time, there will be several other satellite exhibitions across Oxford, which will explore in detail specific aspects of the concept.
+The central exhibition for *Thinking 3D* will open in 2019 at the [Treasury of the Bodleian Libraries](https://treasures.bodleian.ox.ac.uk/), [Weston Library](https://www.bodleian.ox.ac.uk/weston). At the same time, there will be several other satellite exhibitions across Oxford, which will explore in detail specific aspects of the concept.
 
 ---
 
