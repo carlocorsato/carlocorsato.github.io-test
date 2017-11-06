@@ -1,0 +1,140 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+
+# Site wide configuration
+title: Thinking 3D
+locale: en_UK
+description:
+logo: logo_t3d_cube.png
+words_per_minute: 180
+search: true
+url: https://www.thinking3d.ac.uk   # the base hostname & protocol for your site e.g. "https://carlocorsato.github.io/simply-academia" no slash after your url
+baseurl: # if hosting on Github Project Pages include here the name of your repository e.g. "/simply-academia"
+
+
+# Site owner
+owner:
+  name: Thinking 3D
+  avatar: t3d-author.png
+  email: mail.thinking3d@gmail.com
+  disqus-shortname:
+  bitbucket:
+  codepen:
+  dribbble:
+  flickr:
+  facebook: T3D2019
+  foursquare:
+  github: StAResComp
+  google:
+    plus: #username
+    analytics: UA-108808131-1 #replace with your Tracking ID
+    ad-client:
+    ad-slot:
+  keybase:
+  instagram: #username
+  lastfm:
+  linkedin: #username
+  pinterest: #username
+  soundcloud:
+  stackoverflow: # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam:
+  tumblr: #username
+  twitter: T3D2019
+  vine:
+  weibo: #userid
+  xing:
+  youtube: # "https://youtube.com/c/MichaelRoseDesign"
+
+# Social Sharing
+twitter:
+  username: T3D2019
+facebook:
+  username: T3D2019
+  app_id:
+  publisher:
+og_image: # Open Graph/Twitter default site image
+
+# Reading Files
+include:
+    - .htaccess
+    - _pages
+    - assets
+exclude:
+    - "*.sublime-project"
+    - "*.sublime-workspace"
+    - .bundle
+    - .less
+    - .sass-cache
+    - config
+    - config.rb
+    - Capfile
+    - Gemfile
+    - Gemfile.lock
+    - Gruntfile.js
+    - lib
+    - LICENSE
+    - log
+    - node_modules
+    - package.json
+    - Rakefile
+    - Rakefile.rb
+    - spec
+    - test
+    - tmp
+    - vendor
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown:    kramdown
+highlighter: rouge
+lsi: false
+incremental: false
+mathjax: true
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  toc_levels: 1..6
+  footnote_nr: 1
+  entity_output: as_char
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+
+# Jekyll configuration
+# Outputting
+permalink:   /:categories/:title/
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+# Plugins
+Plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+
+
+# Front Matter Defaults
+defaults:
+  # _posts
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: post
+    permalink: /:title/
+    share: true
+    read_time: true

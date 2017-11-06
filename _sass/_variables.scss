@@ -1,0 +1,71 @@
+
+// TYPOGRAPHY ================================================
+// (changed: base-font; alt-font) ======================================
+$base-font                : 'Gotham', sans-serif;
+$heading-font             : $base-font;
+$caption-font             : $base-font;
+$code-font                : 'source-code-pro', monospace;
+$alt-font                 : 'Gotham', sans-serif;
+
+$doc-font-size            : 16;
+$doc-line-height          : 24;
+
+$border-radius            : 3px;
+$border-radius-box        : 5px;
+$box-shadow               : 5px 5px 15px;
+
+
+// set-up the body font-size / line-height
+body {
+  margin-top: 0px + $doc-line-height;
+  font-size: 0px + $doc-font-size;
+}
+
+
+// COLORS =====================================================
+// (changed: body-color; text-color; white; black) ============
+$body-color               : #fffff8;
+$text-color               : #111;
+$base-color               : #343434;
+$comp-color               : adjust-hue($base-color, 180);
+$border-color             : #333;
+$white                    : #fffff8;
+$black                    : #111;
+$gray                     : #333;
+$light-gray               : lighten($text-color, 30);
+$accent-color             : $black;
+$link-color               : $black;
+$info-color               : #52adc8;
+$warning-color            : #e84a45;
+
+$table-border-color       : $border-color;
+$table-border             : 1px solid $table-border-color;
+$table-background         : $body-color;
+$table-header-color       : lighten($table-background, 10);
+$table-hover-color        : darken($table-background, 2);
+$table-stripe-color       : darken($table-background, 4);
+$table-stripe-color-hover : darken($table-stripe-color, 5);
+
+
+// MEDIA QUERIES ==============================================
+$micro                    : "only screen and (min-width : 30em)";
+$small                    : "only screen and (min-width : 37.5em)";
+$medium                   : "only screen and (min-width : 48em)";
+$large                    : "only screen and (min-width : 62em)";
+$x-large                  : "only screen and (min-width : 86.375em)";
+
+
+/*
+   Grid
+   ========================================================================== */
+
+$right-sidebar-width-narrow : 200px !default;
+$right-sidebar-width        : 300px !default;
+$right-sidebar-width-wide   : 400px !default;
+
+
+/*
+   Animation
+   ========================================================================== */
+
+$global-transition            : all 0.3s ease-in-out;
