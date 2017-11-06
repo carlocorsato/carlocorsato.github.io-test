@@ -54,6 +54,9 @@
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.url }}/assets/icons/images/apple-touch-icon-144x144-precomposed.png">
 
+<!-- feed -->
+{% feed_meta %}
+
 <!-- google_analytics -->
 {% if site.google_analytics and jekyll.environment == 'production' %}
 {% include analytics.html %}
