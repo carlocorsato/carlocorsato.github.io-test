@@ -13,7 +13,7 @@ description:
 logo: logo_t3d_cube.png
 words_per_minute: 180
 search: true
-url: https://carlocorsato.github.io/test   # the base hostname & protocol for your site e.g. "https://carlocorsato.github.io/simply-academia" no slash after your url
+url: https://carlocorsato.github.io   # the base hostname & protocol for your site e.g. "https://carlocorsato.github.io/simply-academia" no slash after your url
 baseurl: /test # if hosting on Github Project Pages include here the name of your repository e.g. "/simply-academia"
 
 
